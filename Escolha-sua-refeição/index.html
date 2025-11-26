@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Monte sua Refição</h1>
+    </header>
+    <main>
+        <section>
+            <form class="formulario">
+                <select name="pratos" id="pratos">
+                    <option value="tonkotsu">Tonkotsu missô lámen</option>
+                    <option value="lasanha">Lasanha</option>
+                    <option value="arripa">Gold arripa mustard</option>
+                </select>
+                <select name="bebidas" id="bebidas">
+                    <option value="creme">Creme de cupuaçu</option>
+                    <option value="morango">Drink de morango</option>
+                    <option value="mojito">Mojito sem álcool</option>
+                </select>
+                <label>
+                    <input type="checkbox" class="adicionais" value="sobremesa">
+                    sobremesa
+                </label>
+
+                <label>
+                    <input type="checkbox" class="adicionais" value="molho">
+                    Molho Extra
+                </label>
+
+                <label>
+                    <input type="checkbox" class="adicionais" value="embalagem">
+                    Embalagem Premium
+                </label>
+                <button>Calcular Total</button>
+            </form>
+            <div class="erro"></div>
+        </section>
+        <section class="resultado"></section>
+    </main>
+
+    <footer></footer>
+
+    <script src="./js/script.js"></script>
+</body>
+</html>
