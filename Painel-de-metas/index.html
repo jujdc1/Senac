@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Controle de Metas</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Painel de Metas Diarias</h1>
+    </header>
+    <main>
+        <section>
+            <div class="container">
+                <form class="formulario">
+                    <label for="meta">Titulo da Meta</label>
+                    <input type="text" id="meta">
+                    <label for="descricao">Descrição</label>
+                    <textarea id="descricao"></textarea>
+                    <label for="prioridade">Prioridade</label>
+                    <select id="prioridade">
+                        <option value="baixa">Baixa</option>
+                        <option value="media">Média</option>
+                        <option value="alta">Alta</option>
+                    </select>
+                    <label for="data"> Data </label>
+                    <input type="date" id="data">
+                    <button id="adicionar" type="submit"> Adicionar </button>
+                </form>
+            </div>
+            <div class="erro">
+            </div>
+        </section>
+        <section id="lista">
+            <ul id="lista-metas"></ul>
+        </section>
+    </main>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

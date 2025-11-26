@@ -1,0 +1,56 @@
+header {
+    text-align: center;
+    padding: 12px;
+}
+.container {
+    margin: 50px auto;
+    background-color: #a5bbcf;
+    padding: 20px;
+    border-radius: 10px;
+    width: 460px;
+}
+form.formulario {
+    display: flex;
+    flex-direction: column;
+}
+form label {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+input, select {
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+button#adicionar{
+    border: none;
+    background-color: rgb(87, 140, 161);
+    color: rgb(246, 248, 250);
+    font-size: 18px;
+    font-weight: 700;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+.concluida{
+
+}
+.alta{
+
+}
+.baixa{
+
+}
+.concluir{
+
+}
+.concluir:hover{
+
+}
+li.itemLista.baixa.concluida .textoLista {
+    text-decoration: line-through;
+}
