@@ -29,3 +29,4 @@ O Painel de Metas é um projeto criado para ajudar pessoas a organizarem seus ob
 Durante o desenvolvimento, aprendi a estruturar uma página usando HTML, estilizar os elementos com CSS e criar interações dinâmicas utilizando JavaScript. Também entendi como organizar melhor um projeto, usar GitHub para versionamento e trabalhar com o VS Code de forma mais eficiente. Isso me ajudou a melhorar minhas habilidades em lógica, design de interface e boas práticas de programação.
 
 ## Autor
+Desenvolvido por Júlia Dias Costa Turma de Tecnico em informática para a internet Vespertino - Senac DF

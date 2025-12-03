@@ -1,5 +1,5 @@
-# Projeto Painel de Metas
-O Painel de Metas é um projeto criado para ajudar pessoas a organizarem seus objetivos de forma simples e visual. Ele permite que o usuário registre metas, acompanhe o progresso e mantenha um controle mais eficiente do que precisa ser feito. O projeto resolve problemas como falta de organização, dificuldade em acompanhar tarefas importantes e ausência de uma visão clara sobre prioridades. Assim, ele funciona como uma ferramenta prática para manter o foco e melhorar a produtividade no dia a dia.
+# Projeto Painel de Frases Motivacionais
+O Painel de Frases Motivacionais é um projeto desenvolvido para inspirar o usuário diariamente. Ele exibe frases motivadoras de forma simples, dinâmica e agradável, ajudando a melhorar o foco, o humor e a produtividade. O projeto resolve problemas como falta de motivação, dificuldade de manter constância nos estudos ou trabalho e necessidade de estímulos positivos ao longo do dia. Assim, funciona como um espaço rápido e acessível para buscar encorajamento sempre que precisar.
 
 ## Funcionalidades 
 -Adicionar novas metas
