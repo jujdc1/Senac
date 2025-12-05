@@ -8,7 +8,6 @@ O Site de Banco Digital é um projeto criado para simular o funcionamento básic
 - 
 ## 📱Tecnologias ultilizadas
 - HTML
-- CSS
 - JavaScript
 - GitHub
 - VS Code
