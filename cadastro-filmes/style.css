@@ -1,0 +1,66 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    margin: 50px auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    width: 460px;
+}
+h1{
+    text-align: center;
+}
+form#formulario{
+    display: flex;
+    flex-direction: column;
+}
+form label {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+input, select{
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+button {
+    border: none;
+    background-color: rgb(87, 140, 161);
+    color:rgb(246, 248, 250);
+    font-size: 18px;
+    font-weight: 700;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+.card {
+    position: relative;
+    width: fit-content;
+}
+span.tag-classica {
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: rotate(36deg);
+    background-color: #ff6f6f;
+    padding: 3px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px 0px black;
+}
+span.tag-moderna {
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: rotate(36deg);
+    background-color: green;
+    padding: 3px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px 0px black;
+}
