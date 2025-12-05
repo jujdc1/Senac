@@ -1,7 +1,7 @@
 # 👩🏻‍🏫Projeto Monte sua Refeição
 O Site de Montagem de Refeição é um projeto criado para que o usuário personalize completamente sua comida de forma prática e interativa. Dentro da plataforma, é possível montar uma refeição escolhendo o prato principal,sobremesa, opções de molho extra e até uma embalagem premium para deixar o pedido mais especial.
 
-##🧩Funcionalidades
+## 🧩Funcionalidades
 - Escolha do prato principal
 - Opção de sobremesa
 - Opção de molho extra
