@@ -1,4 +1,4 @@
-# Projeto Painel de Frases Motivacionais
+# 👩🏻‍🏫Projeto Painel de Frases Motivacionais
 O Painel de Frases Motivacionais é um projeto desenvolvido para inspirar o usuário diariamente. Ele exibe frases motivadoras de forma simples, dinâmica e agradável, ajudando a melhorar o foco, o humor e a produtividade. O projeto resolve problemas como falta de motivação, dificuldade de manter constância nos estudos ou trabalho e necessidade de estímulos positivos ao longo do dia. Assim, funciona como um espaço rápido e acessível para buscar encorajamento sempre que precisar.
 
 ## Funcionalidades 
