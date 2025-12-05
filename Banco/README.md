@@ -23,7 +23,7 @@ O Site de Banco Digital é um projeto criado para simular o funcionamento básic
 - Agora você poderá montar sua refeição diretamente pelo navegador.
 
 ## ✨O que aprendi
-Durante o desenvolvimento, aprendi a estruturar informações de maneira profissional, semelhante a interfaces bancárias reais. Melhorei minhas habilidades em manipulação de dados com JavaScript, organização visual com CSS e criação de componentes interativos no HTML. Também desenvolvi maior entendimento de como exibir valores, atualizar telas em tempo real e manter uma experiência clara e segura para o usuário. Além disso, refinei o uso do GitHub para versionamento e do VS Code para organização do código.
+Durante o desenvolvimento, aprendi a estruturar informações de maneira profissional, semelhante a interfaces bancárias reais. Melhorei minhas habilidades em manipulação de dados com JavaScript e criação de componentes interativos no HTML. Também desenvolvi maior entendimento de como exibir valores, atualizar telas em tempo real e manter uma experiência clara e segura para o usuário.
 
 ## Autor
 Desenvolvido por Júlia Dias Costa Turma de Tecnico em informática para a internet Vespertino - Senac DF
