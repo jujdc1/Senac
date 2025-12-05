@@ -22,7 +22,7 @@ O Site de boletim é um projeto criado para ajudar professores a lançar notas, 
 - Agora você poderá montar sua refeição diretamente pelo navegador.
 
 ## ✨O que aprendi
-Com esse projeto aprendi a fazer calculos usando JavaScript, além de criação de componentes interativos no HTML..
+Com esse projeto melhorei minhas habilidades como: fazer calculos usando JavaScript, além de criação de componentes interativos no HTML..
 
 ## Autor
 Desenvolvido por Júlia Dias Costa Turma de Tecnico em informática para a internet Vespertino - Senac DF
