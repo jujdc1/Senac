@@ -26,3 +26,4 @@ Com esse projeto melhorei minhas habilidades como: fazer calculos usando JavaScr
 
 ## Autor
 Desenvolvido por Júlia Dias Costa Turma de Tecnico em informática para a internet Vespertino - Senac DF
+!Alterar as informações!
