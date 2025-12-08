@@ -1,10 +1,11 @@
-# 👩🏻‍🏫Projeto Boletim
-O Site de boletim é um projeto criado para ajudar professores a lançar notas, e facilita na hora de saber a situação do aluno oferecendo ao usuário uma experiência organizada, clara e prática.
+# 👩🏻‍🏫Projeto Cálculo Deseconto
+é um projeto desenvolvido para simular o funcionamento de um sistema simples de descontos aplicados a produtos. O usuário informa o nome do produto, o preço e o tipo de cliente (Comum, Estudante ou Assinante). Com base nessas informações, o sistema aplica automaticamente o desconto correspondente e exibe na tela o valor final.
 
 ## 🧩Funcionalidades
-- Soma as notas;
-- Calcula a média final;
-- Mostra a situação do aluno(aprovado ou reprovado).
+- Seleção do tipo de cliente (Comum, Estudante ou Assinante);
+- Cálculo automático do desconto baseado no perfil informado;
+- Exibição do valor do desconto;
+- Exibição do valor final com desconto aplicado..
 
 ## 📱Tecnologias ultilizadas
 - HTML
@@ -19,11 +20,14 @@ O Site de boletim é um projeto criado para ajudar professores a lançar notas, 
 - Abra o VS Code (ou qualquer editor de sua preferência)
 - No VS Code, vá em File > Open Folder e selecione a pasta do projeto.
 - Abra o arquivo index.html no navegador (clicando duas vezes ou usando a extensão Live Server).
-- Agora você poderá montar sua refeição diretamente pelo navegador.
+- Assim que a página carregar, serão exibidas janelas de prompt pedindo:
+Nome do produto
+Preço
+Tipo de cliente
 
+Após responder, o resultado aparecerá diretamente na tela.
 ## ✨O que aprendi
-Com esse projeto melhorei minhas habilidades como: fazer calculos usando JavaScript, além de criação de componentes interativos no HTML..
-
+Durante o desenvolvimento, aprendi a trabalhar com entrada de dados usando, a converter valores para número, e a aplicar estruturas condicionais para decidir qual desconto utilizar.
 ## Autor
 Desenvolvido por Júlia Dias Costa Turma de Tecnico em informática para a internet Vespertino - Senac DF
-!Alterar as informações!
+
