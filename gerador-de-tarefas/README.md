@@ -20,7 +20,6 @@ O projeto resolve problemas como falta de organização, dificuldade em identifi
 - Limpeza automática do formulário após o envio  
 - Interface simples e fácil de usar  
 
-- 
 
 ## 📱Tecnologias ultilizadas
 - HTML
