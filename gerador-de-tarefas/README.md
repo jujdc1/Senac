@@ -1,11 +1,25 @@
-# 👩🏻‍🏫Projeto Conta de Energia
-A Calculadora de Conta de Energia é um projeto desenvolvido para simular o cálculo do valor da conta de luz de acordo com o consumo em kWh e o tipo de cliente. O usuário informa seu consumo e se é cliente Residencial, Comercial ou Industrial, e o sistema calcula automaticamente o valor base, possíveis acréscimos e o valor final da conta.
+# 📋 Projeto Gerenciador de Tarefas
 
-## 🧩Funcionalidades
-- Entrada do consumo de energia em kWh;
-- Identificação do tipo de cliente (Residencial, Comercial ou Industrial);
-- Definição automática do preço por kWh conforme o tipo de cliente;
-- Cálculo do valor base da conta.
+O **Gerenciador de Tarefas** é um projeto desenvolvido para ajudar o usuário a organizar suas atividades de forma simples e visual. Por meio de um formulário, é possível cadastrar tarefas com título, descrição e nível de prioridade. As tarefas são exibidas em forma de cartões, com cores diferentes para indicar a prioridade (Alta, Média ou Baixa).
+
+O projeto resolve problemas como falta de organização, dificuldade em identificar tarefas mais urgentes e ausência de um controle visual eficiente das atividades do dia a dia.
+
+---
+
+## ⚙️ Funcionalidades
+
+- Cadastro de tarefas por meio de formulário  
+- Inserção de título, descrição e prioridade  
+- Armazenamento das tarefas em um array  
+- Exibição das tarefas em formato de cards  
+- Diferenciação visual por prioridade:
+  - 🔴 Alta  
+  - 🟡 Média  
+  - 🟢 Baixa  
+- Atualização automática da lista sem recarregar a página  
+- Limpeza automática do formulário após o envio  
+- Interface simples e fácil de usar  
+
 - 
 
 ## 📱Tecnologias ultilizadas
@@ -21,14 +35,19 @@ A Calculadora de Conta de Energia é um projeto desenvolvido para simular o cál
 - Abra o VS Code (ou qualquer editor de sua preferência)
 - No VS Code, vá em File > Open Folder e selecione a pasta do projeto.
 - Abra o arquivo index.html no navegador (clicando duas vezes ou usando a extensão Live Server).
-- o carregar a página, informe:
-O consumo em kWh
-O tipo de cliente (Residencial, Comercial ou Industrial).
-- Após preencher os dados corretamente, o resumo da conta será exibido na tela.
-Após responder, o resultado aparecerá diretamente na tela.
+. Preencha o formulário com:
+   - Título da tarefa  
+   - Descrição  
+   - Prioridade (Alta, Média ou Baixa)  
+- Clique em **Adicionar Tarefa**.  
+- As tarefas cadastradas aparecerão automaticamente na lista.
 
-## ✨O que aprendi
-Durante o desenvolvimento, aprendi a utilizar estruturas condicionais para definir preços diferentes conforme o tipo de cliente, a trabalhar com cálculos baseados em consumo e a aplicar acréscimos de forma automática. Também aprendi a validar entradas do usuário, exibir mensagens de erro e mostrar resultados organizados na tela usando JavaScript. Além disso, evoluí no uso do VS Code para organizar o código.
+---
+
+## 📚 O que aprendi
+
+Durante o desenvolvimento deste projeto, aprendi a trabalhar com formulários em JavaScript, capturar dados de inputs e armazená-los em arrays. Também aprendi a criar elementos HTML dinamicamente, manipular classes CSS de acordo com condições e atualizar o conteúdo da página sem recarregar.
+Além disso, melhorei minha lógica de programação, a organização do código.
 
 ## Autor
 Desenvolvido por Júlia Dias Costa Turma de Tecnico em informática para a internet Vespertino - Senac DF
